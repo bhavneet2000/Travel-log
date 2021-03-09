@@ -7,5 +7,6 @@
 * Image - Text - URL
 * Latitude - Number
 * Longitude - Number
+* visitDate - DateTime
 * CreatedAt - DateTime
 * UpdatedAt - DateTime
